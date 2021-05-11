@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Montserrat:wght@300;600&display=swap');
+
+.education{
+    display: flex;
+    flex-direction: column;
+    color:black;
+    justify-content: center;
+    margin: 200px 0;
+    align-items: center;
+
+}
+.education>h1{
+    padding-bottom: 15px;
+}
+
+.education>h4{
+    padding-bottom: 15px;
+}
